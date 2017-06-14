@@ -1,0 +1,48 @@
+.pagecontent {
+    padding-left: 50px;
+    padding-right: 0px;
+}
+h1 {
+    font-family: Times;
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 2em;
+  color: blue;
+}
+
+h2 {
+    font-family: Times;
+    font-size: 30px;
+    font-weight: regular;
+    color: blue;
+}
+
+p {
+    font-family: Times;
+    font-size: 18px;
+    font-weight: regular;
+    color: black;
+}
+li{
+    font-family: Times;
+    font-size: 16px;
+    font-weight: regular;
+    color: black;
+}
+a {
+text-decoration: none;
+}
+body {
+    background-color: beige;
+}
+a {
+text-decoration: none;
+}
+nav {
+    margin: 50px 0;
+    background-color: lightgrey;
+  font-weight: bold;
+}
+nav a:hover { 
+    background-color: grey; 
+}
